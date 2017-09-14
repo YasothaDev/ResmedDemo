@@ -1,0 +1,19 @@
+{
+  "name": "resmedassignment2",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "jasmine": "^2.8.0",
+    "jasmine-node": "^1.14.5",
+    "request": "^2.81.0",
+    "selenium-webdriver": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node spec"
+  },
+  "author": "Yasotha Devi Padmanabhan",
+  "license": "ISC"
+}
